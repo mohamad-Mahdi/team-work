@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "sass": "^1.69.5"
+  },
+  "name": "c",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"sass --watch ./style/main.scss ./style/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "be": "^0.0.3",
+    "case": "^1.6.3",
+    "in": "^0.19.0",
+    "install": "^0.13.0",
+    "node-sass": "^9.0.0",
+    "npm": "^10.2.4",
+    "similar": "^0.1.0",
+    "this": "^1.1.0",
+    "to": "^0.2.9",
+    "which": "^4.0.0",
+    "would": "^1.0.0"
+  }
+}
